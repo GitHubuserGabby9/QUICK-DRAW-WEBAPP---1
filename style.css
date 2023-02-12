@@ -1,0 +1,19 @@
+body {
+    color:black;
+    background:lightyellow;
+}
+
+#score
+{
+    font-size: 30px;
+    margin-left: 100px;
+}
+#time{
+    font-size: 30px;
+    margin-right: 150px;
+    float:right;
+}
+#sketch-2-B-drawn
+{
+    color: brown;
+}
